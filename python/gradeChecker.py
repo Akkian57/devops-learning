@@ -1,3 +1,6 @@
+# Assignment 2
+# Grade Cheker
+
 score = int(input("Enter Score : "))
 
 if score > 90 and score <= 100:
